@@ -3,3 +3,4 @@ A hands-on journey through the mechanics of MongoDB using Python and PyMongo. Th
 
 ## 1. Basic Operations 
 ✦ [Querying JSON Documents in MongoDB Using Python](Python%20Scripts/Querying%20JSON%20Documents%20in%20MongoDB%20Using%20Python.ipynb)<br />
+✦ [Updating JSON Documents in MongoDB Using Python](Python%20Scripts/Updating%20JSON%20Documents%20in%20MongoDB%20Using%20Python.ipynb)<br />
