@@ -1,5 +1,10 @@
 # <p align="center">MongoDB Mechanics</p>
-A hands-on journey through the mechanics of MongoDB using Python and PyMongo. This repo explores CRUD operations, schema design, aggregation, indexing, and more through practical examples and mini-projects.
+## <i>Model. Query. Optimise NoSQL.</i>
+
+Dive into the core mechanics of MongoDB through Python-based implementations using PyMongo. This repository offers 
+hands-on examples covering CRUD operations, schema design strategies, indexing techniques, and the powerful aggregation 
+framework. From simple queries to optimised NoSQL architectures, this is your toolkit for mastering document-based 
+databases in practical contexts.
 
 ## 1. Basic Operations 
 1. [Querying JSON Documents in MongoDB Using Python](Python%20Scripts/Querying%20JSON%20Documents%20in%20MongoDB%20Using%20Python.ipynb)<br />
