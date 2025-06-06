@@ -28,6 +28,7 @@ databases in practical contexts.
 ### 3.2 Aggregation, Grouping, Sorting, and Projection
 ✦ [Grouping and Aggregation in MongoDB Using Python](Python%20Scripts/Grouping%20and%20Aggregation%20in%20MongoDB%20Using%20Python.ipynb)<br />
 ✦ [CRUD Operations, Grouping & Aggregation in MongoDB Using Python](Python%20Scripts/CRUD%20Operations,%20Grouping%20&%20Aggregation%20in%20MongoDB%20Using%20Python.ipynb)<br />
+✦ [Order Trends Analysis Using Grouping & Aggregation](Python%20Scripts/Order%20Trends%20Analysis%20Using%20Grouping%20&%20Aggregation.ipynb)<br />
 
 ### 3.3 Text Search, Geospatial Queries, and Array Operators
 
